@@ -1,6 +1,5 @@
-### Hi there 👋
-#### I'm Tin and I build web/apps that solve problems, make life fun and easier while having fun along the way!
-I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.
+### HI I MAKE WEB/APPS 👋
+- I'm Tin solve problems, make life fun and easier while having fun along the way! I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
