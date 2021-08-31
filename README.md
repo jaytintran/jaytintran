@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm Tin and I build web/apps that solve problems, make life fun and easier while having fun along the way!
-- I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.
+I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -11,7 +11,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 - 🌐 &nbsp;
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -23,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
--🎨 &nbsp;
+- 🎨 &nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
