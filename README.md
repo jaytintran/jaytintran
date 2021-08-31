@@ -26,7 +26,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jaytintran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaytintran&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&theme=buefy&layout=compact" />
 </a>
@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://jaytintran.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jaytin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jaytintr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jaytintran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://jaytintran.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-jaytintran.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jaytin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Tin%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jaytintr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jaytintr-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:jaytintran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jaytintran@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
