@@ -23,6 +23,7 @@
 - Smart Brain | Face Recognition Application
 - Mapty | Travel Companionship
 - Bankist | Banking Manager
+- Mein Auto | Full-fledged Car Dealership
 
 **Technologies & Tools**
 - 🤖 &nbsp;
