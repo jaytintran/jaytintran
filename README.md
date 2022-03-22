@@ -1,5 +1,5 @@
 ### Hi I'm a Tech Geek & Bodybuilder
-- I'm Tin solve problems, make life fun and easier while having fun along the way! I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.
+- I'm Tin solve problems, make life fun and easier while having fun along the way! I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.<br/>
 [My Personal Portfolio](https://jaytintran.github.io/)
 
 ### My Projects & Skills
