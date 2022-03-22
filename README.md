@@ -17,16 +17,14 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=posgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 - Smart Brain | Face Recognition Application
 - Mapty | Travel Companionship
 - Bankist | Banking Manager
 
 **Technologies & Tools**
-- 🌐 &nbsp;
- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
- - 🤖 &nbsp;
+- 🤖 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
