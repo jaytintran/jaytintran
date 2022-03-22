@@ -1,5 +1,23 @@
-### HI I MAKE WEB/APPS 👋
+### Hi I'm a Tech Geek & Bodybuilder
 - I'm Tin solve problems, make life fun and easier while having fun along the way! I'm a front end software engineer beside being a Jack of a All Trade. Doing other things for fun like boxing, learning new languages, playing poker etc.
+[My Personal Portfolio](https://jaytintran.github.io/)
+
+### My Projects & Skills
+**Web Design** 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- Yummy | Food Delievery Service
+- Travel Geek | Traveling Agency
+- Elec-auto | Electrical Automobile Dealer
+- Rolexie | Prestige Watches Retailer
+
+**Development**
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=javascript)
+
+- Smart Brain | Face Recognition Application
+- Mapty | Travel Companionship
+- Bankist | Banking Manager
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
