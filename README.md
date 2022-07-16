@@ -1,10 +1,10 @@
-### Hi I'm a self-taught developer and a sport addict.
+## Hi there!
+###I'm a self-taught developer and a sport addict.
 - My name is Tin, and I love solving problems, make life fun and easier while learning new things along the way. 
 - I'm striving to become a software engineer beside being a jack of all trade 😉. In my free time outside of coding I do boxing, learning new languages, playing poker, lifting weights, running, and learn a vast array of competences that sparked my interest.
 <br/><br/>
-[My Personal Portfolio](https://jaytintran.github.io/)
 
-### My Projects & Skills
+### Projects & Skills
 **Web Design** 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
