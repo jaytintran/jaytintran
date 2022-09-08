@@ -41,8 +41,8 @@
 <br/>
 
 <a href="https://github.com/jaytintran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaytintran&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&langs_count=8&theme=buefy" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=jaytintran&theme=buefy&show_icons=true" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&langs_count=8&theme=buefy" />
 </a>
 
 <br/>
