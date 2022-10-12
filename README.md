@@ -74,7 +74,7 @@ Nice to meet you, I'm Tin Tran or by nickname Ace It
 
 <p align="center">
  
-<a href="https://jaytintran.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-jaytintran.github.io-blue?style=flat-square&logo=google-chrome"</a>
+<a href="https://jaytintran.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-jaytintran.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jaytin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Tin-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jaytintr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jaytintr-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jaytintran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jaytintran@gmail.com-blue?style=flat-square&logo=gmail"></a>
