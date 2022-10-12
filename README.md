@@ -20,7 +20,11 @@ Nice to meet you, I'm Tin Tran or by nickname Ace It
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&theme=react)](https://github.com/jaytintran/github-readme-stats)
+<a href="https://github.com/jaytintran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaytintran&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&langs_count=8&theme=buefy&layout=compact" />
+</a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&theme=react)](https://github.com/jaytintran/github-readme-stats) -->
 
 <br>
 
@@ -70,14 +74,10 @@ Nice to meet you, I'm Tin Tran or by nickname Ace It
 
 <p align="center">
  
-<a href="https://www.instagram.com/jaytintr" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
-
-<a href="https://www.linkedin.com/in/jaytin/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-    
-<a href="https://medium.com/@jaytintran" target="_blank">
-<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
+<a href="https://jaytintran.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-jaytintran.github.io-blue?style=flat-square&logo=google-chrome"</a>
+<a href="https://www.linkedin.com/in/jaytin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Tin-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jaytintr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jaytintr-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:jaytintran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jaytintran@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
