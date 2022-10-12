@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Tin Tran or just call me by my nickname <span style="color:red;">Ace It</span>.
+Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold>.
 
 ## Who Am I? 🤠
 - 💻 Nomad Developer 
