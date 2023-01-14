@@ -20,11 +20,7 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
 
 ## My Weapons 🌟
 
-<a href="https://github.com/jaytintran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaytintran&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&langs_count=8&theme=buefy&layout=compact" />
-</a>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&theme=react)](https://github.com/jaytintran/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&theme=react)](https://github.com/jaytintran/github-readme-stats)
 
 <br>
 
@@ -67,7 +63,6 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaytintran&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=TidbitsJS&theme=react-dark)
 <br>
 
 <p align="center">Want to Connect with Me?</p>
