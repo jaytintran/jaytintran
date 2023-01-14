@@ -50,14 +50,6 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
 
 <br>
 
- 
-## Github Status 🏆
-
-<img  src="https://github-readme-stats.vercel.app/api?username=jaytintran&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<br>
-
-<br>
-
 <p align="center">Want to Connect with Me?</p>
 
 <p align="center">
