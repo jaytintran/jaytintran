@@ -20,12 +20,6 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytintran&theme=react)](https://github.com/jaytintran/github-readme-stats)
-
-<br>
-
-## My Shields 🛡
-
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
@@ -60,7 +54,6 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
 ## Github Status 🏆
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jaytintran&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaytintran&theme=react" width="48%" >
 <br>
 
 <br>
