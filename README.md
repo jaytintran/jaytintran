@@ -10,12 +10,6 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
 - 📈 Day Trading
 - 🌏 Speak Multiple Languages: 🇫🇷🇩🇪🇬🇧🇻🇳
 
-- 🏆 Vision : To become a Tech Master & a Jack of all Trades
-- 😂 Fun Facts : 
-    + Wasting tons of time on self-help & manosphere books 
-    + Watching a lot of content from Andrew Tate
-    + こんにちは、一緒に遊びませんか？ (Learning Japanese out of curiosity 🇯🇵)
-    
 <br>
 
 ## My Weapons 🌟
