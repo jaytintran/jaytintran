@@ -1,18 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold>.
-
-## Who Am I? 🤠
-- 💻 Nomad Developer 
-- 👩‍💻 Working on Web & App Development 
-- 🥊 Doing Boxing & Bodybuilding
-- 🎲 Playing Poker
-- 📈 Day Trading
-- 🌏 Speak Multiple Languages: 🇫🇷🇩🇪🇬🇧🇻🇳
+Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack for learning everything that piques my interest such as: fitness, biology, medical, artifical intelligence, etc. 
 
 <br>
 
-## My Weapons 🌟
+## My Toolkits 🌟
 
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
@@ -41,16 +33,3 @@ Nice to meet you, I'm Tin Tran or just call me by my nickname <bold>Ace It</bold
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
 </p>
-
-<br>
-
-<p align="center">Want to Connect with Me?</p>
-
-<p align="center">
-    <a href="https://jaytintran.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-jaytintran.github.io-blue?style=flat-square&logo=google-chrome"></a>
-    <a href="https://www.linkedin.com/in/jaytin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Tin-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://www.instagram.com/jaytintr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jaytintr-blue?style=flat-square&logo=instagram"></a>
-    <a href="mailto:jaytintran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jaytintran@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=jaytintran.jaytintran" alt="Jay Tin :: Visitor's Count" /></p>
