@@ -2,8 +2,6 @@
 
 Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack for learning everything that piques my interest such as: fitness, biology, medical, artifical intelligence, etc. 
 
-<br>
-
 ## My Toolkits 🌟
 
 <p align="left">
