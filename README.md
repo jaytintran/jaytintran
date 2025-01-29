@@ -32,7 +32,7 @@ Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
-## My Repos at a Glance
+## My Active Repos at a Glance
 
 | **Medium Projects**               | **Small Projects**                | **Web Design Mainly**             | **Big Coursework**                | **Small Exercises**               |
 |-----------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
