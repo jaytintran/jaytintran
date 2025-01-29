@@ -65,5 +65,8 @@ Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack 
 - https://github.com/jaytintran/dice-game-js
 - https://github.com/jaytintran/react-step-counter
 - https://github.com/jaytintran/guess-my-number-v2
+- https://github.com/jaytintran/passenger-counter
+- https://github.com/jaytintran/pricing-table
+- https://github.com/jaytintran/drum-kit
 
 
