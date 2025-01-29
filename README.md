@@ -5,40 +5,38 @@ Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack 
 # My Repos at a Glance
 
 ## Medium Projects
-https://github.com/jaytintran/portfolio-v3
-https://github.com/jaytintran/sleekai
+- https://github.com/jaytintran/portfolio-v3
+- https://github.com/jaytintran/sleekai
 
 ## Small Projects
-https://github.com/jaytintran/eat-n-split
-https://github.com/jaytintran/travel-list
-https://github.com/jaytintran/pizza-menu
-https://github.com/jaytintran/nike-store-react
-https://github.com/jaytintran/movie-box
-https://github.com/jaytintran/vn-library
-https://github.com/jaytintran/maganime
-https://github.com/jaytintran/utube
-https://github.com/jaytintran/film-land
+- https://github.com/jaytintran/eat-n-split
+- https://github.com/jaytintran/travel-list
+- https://github.com/jaytintran/pizza-menu
+- https://github.com/jaytintran/nike-store-react
+- https://github.com/jaytintran/movie-box
+- https://github.com/jaytintran/vn-library
+- https://github.com/jaytintran/maganime
+- https://github.com/jaytintran/utube
+- https://github.com/jaytintran/film-land
 
 ## Web Design Mainly
-https://github.com/jaytintran/travel-geek
-https://github.com/jaytintran/blooger
-https://github.com/jaytintran/omni-food
-https://github.com/jaytintran/deliverfy
-https://github.com/jaytintran/yummey
-https://github.com/jaytintran/elec-car
+- https://github.com/jaytintran/travel-geek
+- https://github.com/jaytintran/blooger
+- https://github.com/jaytintran/omni-food
+- https://github.com/jaytintran/deliverfy
+- https://github.com/jaytintran/yummey
+- https://github.com/jaytintran/elec-car
 
 ## Big Coursework
-https://github.com/jaytintran/biggest-js-course
-https://github.com/jaytintran/42-lyon-piscine
+- https://github.com/jaytintran/biggest-js-course
+- https://github.com/jaytintran/42-lyon-piscine
 
 ## Small Exercises
-https://github.com/jaytintran/dice-game-js
-https://github.com/jaytintran/react-step-counter
-https://github.com/jaytintran/guess-my-number-v2
+- https://github.com/jaytintran/dice-game-js
+- https://github.com/jaytintran/react-step-counter
+- https://github.com/jaytintran/guess-my-number-v2
 
-
-
-## My Toolkits 🌟
+# My Toolkits 🌟
 
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
