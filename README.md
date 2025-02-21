@@ -34,16 +34,14 @@ Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack 
 
 ## My Active Repos at a Glance
 
-| **Medium Projects**               | **Small Projects**                | **Web Design Mainly**             | **Big Coursework**                | **Small Exercises**               |
+| **Medium Projects**               | **Small Projects**                | **Web Design Mainly**             | **Big Coursework**                | **Small Exercises**               |
 |-----------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 | [portfolio-v3](https://github.com/jaytintran/portfolio-v3) | [eat-n-split](https://github.com/jaytintran/eat-n-split) | [travel-geek](https://github.com/jaytintran/travel-geek) | [biggest-js-course](https://github.com/jaytintran/biggest-js-course) | [dice-game-js](https://github.com/jaytintran/dice-game-js) |
-| [sleekai](https://github.com/jaytintran/sleekai)           | [travel-list](https://github.com/jaytintran/travel-list) | [blooger](https://github.com/jaytintran/blooger)         | [42-lyon-piscine](https://github.com/jaytintran/42-lyon-piscine)     | [react-step-counter](https://github.com/jaytintran/react-step-counter) |
-|                                   | [pizza-menu](https://github.com/jaytintran/pizza-menu)   | [omni-food](https://github.com/jaytintran/omni-food)     |                                    | [guess-my-number-v2](https://github.com/jaytintran/guess-my-number-v2) |
-|                                   | [nike-store-react](https://github.com/jaytintran/nike-store-react) | [deliverfy](https://github.com/jaytintran/deliverfy)     |                                    | [passenger-counter](https://github.com/jaytintran/passenger-counter)   |
-|                                   | [movie-box](https://github.com/jaytintran/movie-box)     | [yummey](https://github.com/jaytintran/yummey)           |                                    | [pricing-table](https://github.com/jaytintran/pricing-table)           |
-|                                   | [vn-library](https://github.com/jaytintran/vn-library)   | [elec-car](https://github.com/jaytintran/elec-car)       |                                    | [drum-kit](https://github.com/jaytintran/drum-kit)                     |
-|                                   | [maganime](https://github.com/jaytintran/maganime)       |                                    |                                    |                                    |
-|                                   | [utube](https://github.com/jaytintran/utube)             |                                    |                                    |                                    |
-|                                   | [film-land](https://github.com/jaytintran/film-land)     |                                    |                                    |                                    |
-
-
+| [sleekai](https://github.com/jaytintran/sleekai)           | [travel-list](https://github.com/jaytintran/travel-list) | [blooger](https://github.com/jaytintran/blooger)         | [42-lyon-piscine](https://github.com/jaytintran/42-lyon-piscine)     | [react-step-counter](https://github.com/jaytintran/react-step-counter) |
+| [cine-seek](https://github.com/jaytintran/cine-seek) | [pizza-menu](https://github.com/jaytintran/pizza-menu)   | [omni-food](https://github.com/jaytintran/omni-food)     |                                    | [guess-my-number-v2](https://github.com/jaytintran/guess-my-number-v2) |
+|                                   | [nike-store-react](https://github.com/jaytintran/nike-store-react) | [deliverfy](https://github.com/jaytintran/deliverfy)     |                                    | [passenger-counter](https://github.com/jaytintran/passenger-counter)   |
+|                                   | [movie-box](https://github.com/jaytintran/movie-box)     | [yummey](https://github.com/jaytintran/yummey)           |                                    | [pricing-table](https://github.com/jaytintran/pricing-table)           |
+|                                   | [vn-library](https://github.com/jaytintran/vn-library)   | [elec-car](https://github.com/jaytintran/elec-car)       |                                    | [drum-kit](https://github.com/jaytintran/drum-kit)                     |
+|                                   | [maganime](https://github.com/jaytintran/maganime)       |                                    |                                    |                                    |
+|                                   | [utube](https://github.com/jaytintran/utube)             |                                    |                                    |                                    |
+|                                   | [film-land](https://github.com/jaytintran/film-land)     |                                    |                                    |                                    |
