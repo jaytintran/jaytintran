@@ -3,6 +3,8 @@
 Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also loves learning everything that piques my interest such as: fitness, biology, medical, artifical intelligence, etc. I consider myself as an "Jack of All Trades" or "Polyvalent".
 
 My Website: [URL](https://tintran-portfolio.vercel.app/)
+![image](https://github.com/user-attachments/assets/66bc9f0b-5997-4d8f-9832-328947dd7ca5)
+
 
 ## My Toolkits 🌟
 
