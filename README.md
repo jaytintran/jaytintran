@@ -1,6 +1,8 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also has a knack for learning everything that piques my interest such as: fitness, biology, medical, artifical intelligence, etc.
+Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also loves learning everything that piques my interest such as: fitness, biology, medical, artifical intelligence, etc. I consider myself as an "Jack of All Trades" or "Polyvalent".
+
+My Website: [URL](https://tintran-portfolio.vercel.app/)
 
 ## My Toolkits 🌟
 
