@@ -1,6 +1,6 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Tin Tran. I am a Front-end Developer who also loves learning everything that piques my interest such as: fitness, biology, medical, artifical intelligence, etc. I consider myself as an "Jack of All Trades" or "Polyvalent".
+I'm Tin Tran. I'm a Full-stack Developer with a passion for diving deep into any field that sparks my curiosity—whether it's fitness, biology, medicine, artificial intelligence, psychology or beyond. I embrace the mindset of being an "Ace of All Trades," constantly striving to master multiple disciplines and expand my skill set.
 
 My Website: [URL](https://tintran-portfolio.vercel.app/)
 ![image](https://github.com/user-attachments/assets/66bc9f0b-5997-4d8f-9832-328947dd7ca5)
