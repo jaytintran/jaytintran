@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+## Hi Traveler! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 I'm Tin Tran. I'm a Full-stack Developer with a passion for diving deep into any field that sparks my curiosity—whether it's fitness, biology, medicine, artificial intelligence, psychology or beyond. I embrace the mindset of being an "Ace of All Trades," constantly striving to master multiple disciplines and expand my skill set.
 
