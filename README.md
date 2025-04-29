@@ -2,7 +2,7 @@
 
 I'm Tin Tran. I'm a Full-stack Developer with a passion for diving deep into any field that sparks my curiosity—whether it's fitness, biology, medicine, artificial intelligence, psychology or beyond. I embrace the mindset of being an "Ace of All Trades," constantly striving to master multiple disciplines and expand my skill set.
 
-My Website: [Main](https://tintran-2025.vercel.app/){:target="_blank"} | [Old](https://tintran-portfolio.vercel.app/){:target="_blank"}
+My Website: [Newest 2025 Portfolio](https://tintran-2025.vercel.app/) | [Old](https://tintran-portfolio.vercel.app/)
 <!-- ![image](https://github.com/user-attachments/assets/66bc9f0b-5997-4d8f-9832-328947dd7ca5) -->
 ![Screenshot 2025-04-05 142744](https://github.com/user-attachments/assets/cabdd427-76d3-4e8f-a716-ec73653a72a5)
 
